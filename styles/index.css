@@ -7,9 +7,3 @@ html {
 *:before {
   box-sizing: inherit;
 }
-
-.strip-one {
-  font-family: Arial, Helvetica, sans-serif;
-  color: grey;
-}
-
